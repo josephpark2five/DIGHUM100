@@ -48,9 +48,3 @@ To freeze the exact versions you used:
 ```bash
 pip freeze > requirements.txt
 ```
-
-© 2025 Joseph Park.
-This repository is for educational use under UC Berkeley course DIGHUM 100.
-
-```
-```
